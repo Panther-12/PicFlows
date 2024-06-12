@@ -1,0 +1,32 @@
+.share-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    background-color: #f4f5f8;
+    padding: 20px;
+    text-align: center;
+  
+    h1 {
+      font-size: 2.5em;
+      color: #3880ff;
+      margin-bottom: 20px;
+    }
+  
+    form {
+      width: 100%;
+      max-width: 500px;
+    }
+  
+    ion-item {
+      margin-bottom: 20px;
+    }
+  
+    ion-button {
+      --background: #0077b5;
+      --background-hover: #005582;
+      --background-activated: #004374;
+    }
+  }
+  
