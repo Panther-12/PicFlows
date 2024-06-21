@@ -1,10 +1,31 @@
 # Ionic Gallery and LinkedIn Sharing App
 
+PicFlows is an Angular Ionic mobile application designed to provide a secure and user-friendly platform for managing your photos. With PicFlows, you can capture, store, organize, share, and securely delete your pictures with ease.
+
+## Features
+
+- **Capture and Store**: Take pictures and store them securely within the app. Your photos are always at your fingertips.
+- **Organize**: Categorize your pictures as you wish. With our intuitive organization features, you'll never lose track of your photos.
+- **Share**: Share your favorite moments with others directly from the app. It's as simple as a few taps.
+- **Delete**: Delete your pictures when they are no longer needed. We ensure that your deleted photos are removed securely.
+
+## Getting Started
+
+To get started with PicFlows, you can download the app from [here](link-to-the-app). Once installed, you can create an account and start capturing and managing your photos.
+
+## Feedback
+
+As this is a beta version, we are eager to hear your feedback. If you encounter any bugs or have any suggestions, please create an issue on this GitHub repository.
+
+
 ## Table of Contents
 - [Ionic Gallery and LinkedIn Sharing App](#ionic-gallery-and-linkedin-sharing-app)
+  - [Features](#features)
+  - [Getting Started](#getting-started)
+  - [Feedback](#feedback)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
-  - [Features](#features)
+  - [Features](#features-1)
   - [Screenshots](#screenshots)
   - [Installation](#installation)
     - [Prerequisites](#prerequisites)
